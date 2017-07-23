@@ -1,0 +1,55 @@
+<-----------------------------Begin Test Case------------------------------------------->
+DB2 driver is loaded successfully
+DB2 Database Connected
+Test Case: UI All Screens Test
+com.dstsystems.salesconnect.autotest.testsuite.UIAllScreenTest
+
+This test suite is used to traverse through all the screens. 
+The test make sure that you can reach the multiple product family both as a UD user and Alpha-Enterprise user
+
+<-----------------------------End Test Case------------------------------------------->
+
+<-----------------------------Begin Test Case------------------------------------------->
+DB2 driver is loaded successfully
+DB2 Database Connected
+Test Case: Spreadsheet Landing Page Test
+com.dstsystems.salesconnect.autotest.testsuite.SpreadsheetLandingScreenTest
+
+This test suite is used to test the spreadsheet landing page. 
+The test make sure that you can reach the Landing page both as a UD user and Alpha-Enterprise user
+
+
+<-----------------------------Test Begins------------------------------------------->
+
+########## testAlphaSpreadsheet : Start : 25/03/2014 13:32:49.570
+##### Test Enviroment is TEST #####
+Login Successfull 
+Page title is: Profile Product Family
+########## testAlphaSpreadsheet : Finish : 25/03/2014 13:33:26.196 ( with 0 errors from 0 tests )
+
+<-----------------------------Test Ends------------------------------------------->
+
+<-----------------------------End Test Case------------------------------------------->
+
+<-----------------------------Begin Test Case------------------------------------------->
+DB2 driver is loaded successfully
+DB2 Database Connected
+Test Case: Multiple Product Family Selection Page Test
+com.dstsystems.salesconnect.autotest.testsuite.MultipleProductFamilyTest
+
+This test suite is used to test the multiple product family selection page. 
+The test make sure that you can reach the multiple product family both as a UD user and Alpha-Enterprise user
+
+<-----------------------------End Test Case------------------------------------------->
+
+<-----------------------------Begin Test Case------------------------------------------->
+DB2 driver is loaded successfully
+DB2 Database Connected
+Test Case: UploadSpread sheet button click  Test
+com.dstsystems.salesconnect.autotest.testsuite.UploadSpreadsheetClickTest
+
+This test suite is used to test the upload spreadsheet button click by the user. This test performs Various 
+scenarios from happy Path to different failures cases.
+
+<-----------------------------End Test Case------------------------------------------->
+
